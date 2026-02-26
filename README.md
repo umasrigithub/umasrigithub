@@ -21,7 +21,7 @@ I am transitioning into Data Science after extensive professional experience, co
 ---
 
 ## 📁 Featured Projects
-- Deep Learning Projects ((PyTorch coursework)
+- Deep Learning Projects (PyTorch coursework)
 - Data Structures & Algorithms (course work)
 
 ---
