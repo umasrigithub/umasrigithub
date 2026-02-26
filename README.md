@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Uma 
 
-<!--
-**umasrigithub/umasrigithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s in Data Science (MSDS) — University of Texas at Austin  
+  Interested in Data Analysis, Predictive Modeling, and Applied Machine Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+I am transitioning into Data Science after extensive professional experience, combining analytical problem-solving with modern data science techniques. My work focuses on transforming data into actionable insights through analysis, visualization, and predictive modeling.
+
+---
+
+##  Skills
+- Python (Pandas, NumPy, Scikit-learn)
+- Data Analysis & Visualization (Matplotlib, Seaborn)
+- Machine Learning & Predictive Modeling
+- Deep Learning (PyTorch)
+- Statistical Analysis
+- SQL (learning/working knowledge)
+
+---
+
+## 📁 Featured Projects
+- Deep Learning Projects ((PyTorch coursework)
+- Data Structures & Algorithms (course work)
+
+---
+
+##  Tools & Technologies
+Python • Pandas • NumPy • Scikit-learn • PyTorch • Git • Jupyter Notebook
+
+---
+
+##  Connect With Me
+- LinkedIn: https://www.linkedin.com/in/uma-kommuru-b96020310
+- GitHub: https://github.com/umasrigithub
